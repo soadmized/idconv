@@ -1,7 +1,7 @@
 package main
 
 import (
-	"idconv/cmd"
+	"github.com/soadmized/idconv/cmd"
 	"os"
 )
 

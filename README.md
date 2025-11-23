@@ -8,6 +8,11 @@ idconv allows to convert string uuid to base64, rawBase64, or vice versa. Also i
 idconv [uuid | base64 | rawBase64] | random
 ```
 
+### Install 
+```
+go install github.com/soadmized/idconv@latest
+```
+
 ### Examples
 First option - convert basic string format of uuid: 
 
