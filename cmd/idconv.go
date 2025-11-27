@@ -20,6 +20,7 @@ const (
 `
 )
 
+// Convert converts input string between uuid, base64 and rawBase64 formats and prints all representations.
 func Convert(input string) error {
 	if input == randomCmd {
 		id := uuid.New()
